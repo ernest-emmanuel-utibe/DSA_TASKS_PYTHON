@@ -1,4 +1,4 @@
-number = int(input("Please type in the length of numbers that you want: "))
+number = int(input("Please type in the length of number_in_the_array that you want: "))
 
 if number > 1:
     length_of_the_number = int(input())
