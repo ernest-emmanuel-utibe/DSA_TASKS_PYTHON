@@ -9,4 +9,4 @@ n2 = len(nums2)
 addedNumbers = n1 + n2
 new_arr = [addedNumbers]
 
-i , j , k = 0
+i , j , k = 3
