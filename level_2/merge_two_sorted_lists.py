@@ -1,4 +1,4 @@
-def merge_two_sorted_arrays(arrayOne, arrayTwo):
+def merge_two_sorted_array(arrayOne, arrayTwo):
     sorted_both_arrays = []
     i = j = k = 0
     while i < len(arrayOne) and j < len(arrayTwo):
@@ -17,4 +17,4 @@ def merge_two_sorted_arrays(arrayOne, arrayTwo):
         sorted_both_arrays.append(arrayTwo[j])
         j += 1
         k += 1
-    return sorted_both_arrays
+    return sorted_both_array
