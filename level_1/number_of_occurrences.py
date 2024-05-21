@@ -1,4 +1,5 @@
 def find_occurrences():
+    
     word = "MISSISSIPPI"
 
     count_for_s = word.count('s')
